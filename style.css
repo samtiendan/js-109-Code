@@ -1,0 +1,26 @@
+div {
+
+}
+
+
+#div1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black
+}
+
+#div2{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black
+
+
+#div3{
+    background-color: blue;
+
+
+.special {
+    margin-left: 200px;
+}
